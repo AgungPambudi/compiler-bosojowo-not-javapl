@@ -1,7 +1,7 @@
 Compiler Bahasa Jawa
 =====================
 
-Merupakan kompiler bahasa pemrograman Jowo (bukan Java). Ini merupakan riset pribadi buat mempelajari LLVM.
+Merupakan kompiler bahasa pemrograman Jowo (bukan Java). Ini merupakan riset dari mas Robin buat mempelajari LLVM.
 
 Kompiler ini asli bukan parodi dan bisa menghasilkan native binary untuk multi platform Linux, OSX, Windows, dan binary untuk ARM dan MIPS.
 
